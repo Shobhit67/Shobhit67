@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shobhit Goyal</h1>
+<h1 align="center">Hey there 👋, I'm Shobhit Goyal</h1>
 <h3 align="center">A passionate frontend developer who is trying to prove himself.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shobhit67&label=Profile%20views&color=0e75b6&style=flat" alt="shobhit67" /> </p>
