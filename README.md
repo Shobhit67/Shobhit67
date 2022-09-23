@@ -1,4 +1,4 @@
-### Hi there, I'm Shobhit goyal 👋
+### Hey there, I'm Shobhit goyal 👋
 I'm a Learner, Hustler and devloper!!
 
 **Shobhit67/Shobhit67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
