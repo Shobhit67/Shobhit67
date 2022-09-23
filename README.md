@@ -1,5 +1,5 @@
 ### Hey there, I'm Shobhit goyal 👋
-I'm a Learner, Hustler and devloper!!
+I'm a Learner, Hustler and developer!!
 
 
 -🌱 I’m currently learning Node.js and react
